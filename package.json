@@ -1,0 +1,19 @@
+{
+  "name": "odev-1-abidinkofficial",
+  "version": "1.0.0",
+  "description": "Patika HB Frontend Bootcamp - Odev 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patika-hepsiburada-react-bootcamp/odev-1-abidinkofficial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patika-hepsiburada-react-bootcamp/odev-1-abidinkofficial/issues"
+  },
+  "homepage": "https://github.com/patika-hepsiburada-react-bootcamp/odev-1-abidinkofficial#readme"
+}
